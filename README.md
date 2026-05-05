@@ -1,8 +1,8 @@
+# Sunday Oyebiyi
+
 Sunday Oyebiyi is a Business Analyst and Systems Builder focused on logistics and supply chain platforms.
 
-I work at the intersection of business analysis, product operations, and systems design, focused on building scalable solutions for logistics and supply chain platforms.
-
-Founder of CoreStack Technologies, where I lead product thinking, system design, and business analysis for distributed commerce systems.
+Founder of CoreStack, where I lead product thinking, system design, and business analysis for distributed commerce systems.
 
 ## ⚙️ Core Focus Areas
 
@@ -43,7 +43,7 @@ CoreBox is a distributed commerce system spanning web, mobile, and backend servi
 ## 💼 Experience
 
 **Logistics Operations Analyst** — Richard Bretschneider GmbH
-- Managed logistics workflows, including delivery coordination and inventory control
+- Managed logistics workflows including delivery coordination and inventory control
 - Analyzed operational performance and supported process optimization initiatives
 - Maintained structured reporting and audit-ready documentation systems
 - Collaborated with internal teams to improve supply chain efficiency
@@ -60,4 +60,4 @@ CoreBox is a distributed commerce system spanning web, mobile, and backend servi
 
 ---
 
-*🔥 Building systems that make logistics smarter, one requirement at a time.*# README---Sunday-Oyebiyi
+*🔥 Building systems that make logistics smarter, one requirement at a time.*
