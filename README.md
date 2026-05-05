@@ -2,7 +2,7 @@
 
 Sunday Oyebiyi is a Business Analyst and Systems Builder focused on logistics and supply chain platforms.
 
-Founder of CoreStack, where I lead product thinking, system design, and business analysis for distributed commerce systems.
+Founder of CoreStack Technologies, where I lead product thinking, system design, and business analysis for distributed commerce systems.
 
 ## ⚙️ Core Focus Areas
 
