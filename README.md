@@ -43,7 +43,7 @@ CoreBox is a distributed commerce system spanning web, mobile, and backend servi
 ## 💼 Experience
 
 **Logistics Operations Analyst** — Richard Bretschneider GmbH
-- Managed logistics workflows including delivery coordination and inventory control
+- Managed logistics workflows, including delivery coordination and inventory control
 - Analyzed operational performance and supported process optimization initiatives
 - Maintained structured reporting and audit-ready documentation systems
 - Collaborated with internal teams to improve supply chain efficiency
@@ -56,7 +56,7 @@ CoreBox is a distributed commerce system spanning web, mobile, and backend servi
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/oyebiyisunday) • [CoreStack](https://github.com/oyebiyisunday/CoreStack-Technologies) • [GitHub](https://github.com/oyebiyisunday)
+📧 [oyebiyisunday@gmail.com](mailto:oyebiyisunday@gmail.com) • 🐙 [GitHub](https://github.com/oyebiyisunday)
 
 ---
 
