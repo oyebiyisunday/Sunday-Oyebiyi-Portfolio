@@ -173,9 +173,6 @@ This portfolio showcases my work in building intelligent systems that bridge bus
 
 **Let's build something that makes logistics smarter, more efficient, and more human-centered.**
 
----
-
-*Last Updated: May 2026*
 
 ---
 
