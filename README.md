@@ -61,6 +61,9 @@ CoreBox is a distributed commerce system spanning web, mobile, and backend servi
 
 🐙 GitHub: https://github.com/oyebiyisunday
 
----
-
 Building systems that connect business operations with technology to make logistics smarter and more efficient.
+
+
+## 🏷️ Keywords / Tags
+
+Business Analyst • Product Analyst • Operations Analyst • Logistics Systems • Supply Chain Optimization • Data Analysis • Process Improvement • Requirements Gathering • Business Systems Analyst • Data Visualization • Logistics Tech • Supply Chain Analytics
