@@ -2,7 +2,7 @@
 
 I work at the intersection of business analysis, product operations, and systems design, focused on building scalable solutions for logistics and supply chain platforms.
 
-Founder of CoreStack, where I lead product thinking, system design, and business analysis for distributed commerce systems.
+Founder of CoreStack Technologies, where I lead product thinking, system design, and business analysis for distributed commerce systems.
 
 ## ⚙️ Core Focus Areas
 
