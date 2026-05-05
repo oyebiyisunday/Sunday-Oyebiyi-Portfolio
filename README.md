@@ -1,8 +1,6 @@
-# Sunday Oyebiyi
+# Sunday Oyebiyi is a Business Analyst and Systems Builder focused on logistics and supply chain platforms.
 
-Sunday Oyebiyi is a Business Analyst and Systems Builder focused on logistics and supply chain platforms.
-
-Founder of CoreStack Technologies, where I lead product thinking, system design, and business analysis for distributed commerce systems.
+Founder of CoreStack, where he leads product thinking, system design, and business analysis for distributed commerce systems.
 
 ## ⚙️ Core Focus Areas
 
@@ -18,7 +16,7 @@ Founder of CoreStack Technologies, where I lead product thinking, system design,
 
 CoreStack is a logistics platform focused on enabling distributed commerce and supply chain operations through modern system design and process optimization.
 
-My role involves defining product requirements, analyzing business workflows, and translating operational needs into scalable system solutions.
+The role involves defining product requirements, analyzing business workflows, and translating operational needs into scalable system solutions.
 
 ## 📦 CoreBox
 
@@ -27,8 +25,9 @@ CoreBox is a distributed commerce system spanning web, mobile, and backend servi
 **Stack:** TypeScript • Express • PostgreSQL • Docker • Next.js • React Native • WebSockets • REST APIs
 
 **Key capabilities:**
+
 - Multi-channel system (web, mobile, backend) coordination
-- Real-time operational data flow
+- Real-time operational data flow supporting decision-making
 - Scalable service-oriented architecture
 - Structured deployment and environment management
 - End-to-end system validation and testing
@@ -43,12 +42,14 @@ CoreBox is a distributed commerce system spanning web, mobile, and backend servi
 ## 💼 Experience
 
 **Logistics Operations Analyst** — Richard Bretschneider GmbH
+
 - Managed logistics workflows including delivery coordination and inventory control
 - Analyzed operational performance and supported process optimization initiatives
 - Maintained structured reporting and audit-ready documentation systems
 - Collaborated with internal teams to improve supply chain efficiency
 
-**Business Support Analyst** — First Bank of Nigeria (Electronic Business Division)
+**Business Operations Analyst** — First Bank of Nigeria (Electronic Business Division)
+
 - Supported digital banking systems and internal business applications
 - Worked with stakeholders to improve product workflows and service delivery
 - Developed reporting and decision-support structures using enterprise data
@@ -56,8 +57,10 @@ CoreBox is a distributed commerce system spanning web, mobile, and backend servi
 
 ## 📫 Connect
 
-📧 [oyebiyisunday@gmail.com](mailto:oyebiyisunday@gmail.com) • 🐙 [GitHub](https://github.com/oyebiyisunday)
+📧 oyebiyisunday@gmail.com
+
+🐙 GitHub: https://github.com/oyebiyisunday
 
 ---
 
-*🔥 Building systems that make logistics smarter, one requirement at a time.*
+Building systems that connect business operations with technology to make logistics smarter and more efficient.
