@@ -1,4 +1,4 @@
-# Hi, I’m Sunday Oyebiyi
+Sunday Oyebiyi is a Business Analyst and Systems Builder focused on logistics and supply chain platforms.
 
 I work at the intersection of business analysis, product operations, and systems design, focused on building scalable solutions for logistics and supply chain platforms.
 
