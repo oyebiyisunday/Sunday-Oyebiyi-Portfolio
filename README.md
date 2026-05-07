@@ -89,29 +89,11 @@ A full-stack, multi-channel distributed commerce platform spanning web, mobile, 
 
 ## Professional Experience
 
-### 🏢 Logistics Operations Analyst
-**Richard Bretschneider GmbH** | Germany
+Experience across financial services, logistics, manufacturing, and consumer goods environments, through full-time employment and contract engagements.
 
-*Focused on operational efficiency and supply chain reliability*
+This includes work with organizations such as First Bank of Nigeria, Whytecleon Limited, Insourcing Limited, Richard Bretschneider GmbH, GLS, and Procter & Gamble (Gillette division).
 
-- **Workflow Management:** Designed and managed logistics workflows including delivery coordination, inventory control, and order processing
-- **Performance Analysis:** Analyzed KPIs and operational metrics to identify bottlenecks and optimization opportunities
-- **Process Optimization:** Implemented improvements reducing cycle times and increasing operational capacity
-- **Reporting & Compliance:** Maintained audit-ready documentation systems and structured reporting for stakeholder visibility
-- **Team Collaboration:** Partnered with internal teams to align supply chain operations with business objectives
-
----
-
-### 🏦 Business Operations Analyst
-**First Bank of Nigeria** | Electronic Business Division
-
-*Supporting digital banking systems and operational excellence*
-
-- **System Support:** Managed internal business applications and digital banking platforms, ensuring system reliability
-- **Stakeholder Management:** Collaborated with business units to understand requirements and improve service workflows
-- **Business Intelligence:** Built reporting and decision-support structures leveraging enterprise data
-- **Operations Improvement:** Identified and executed process improvements for operational efficiency
-- **Technical Coordination:** Liaised between business and IT teams on system requirements and troubleshooting
+This experience spans business systems, logistics operations, and enterprise workflows, with focus on operational support, process optimization, and data-driven decision systems.
 
 ---
 
