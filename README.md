@@ -91,9 +91,9 @@ A full-stack, multi-channel distributed commerce platform spanning web, mobile, 
 
 Experience across financial services, logistics, manufacturing, and consumer goods environments, through full-time employment and contract engagements.
 
-This includes work with organizations such as First Bank of Nigeria, Whytecleon Limited, Insourcing Limited, Richard Bretschneider GmbH, GLS, and Procter & Gamble (Gillette division).
+This includes work with organizations such as First Bank of Nigeria, Whytecleon Limited, Insourcing Limited, and Richard Bretschneider GmbH
 
-This experience spans business systems, logistics operations, and enterprise workflows, with focus on operational support, process optimization, and data-driven decision systems.
+This experience spans business systems, logistics operations, and enterprise workflows, with a focus on operational support, process optimization, and data-driven decision systems.
 
 ---
 
