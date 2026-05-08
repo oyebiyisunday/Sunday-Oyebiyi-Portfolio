@@ -75,18 +75,17 @@ Building intelligent systems that improve scalability, coordination, reliability
 
 ## About This Portfolio
 
-This portfolio reflects my commitment to building intelligent systems that solve real business problems at scale. I believe exceptional products emerge at the intersection of deep operational understanding, systematic design thinking, and quality engineering.
 
-**Philosophy:** Great logistics systems aren't just technically sound—they're designed to reduce friction, enable visibility, and empower teams to make better decisions faster.
+This portfolio reflects my work in distributed systems, logistics platforms, and operational infrastructure. My focus is on building scalable systems that improve coordination, operational visibility, reliability, and real-time decision-making across logistics and enterprise environments.
 
-**Let's discuss how systematic thinking and quality architecture can accelerate your operations.**
+I’m particularly interested in the intersection of operations, systems architecture, and infrastructure engineering — designing technology that supports efficient workflows, distributed coordination, and scalable commerce operations.
 
----
-
-### Keyword Index
-
-**Primary:** Business Analyst, Logistics Systems, Supply Chain Optimization, Product Architecture, Systems Design, Distributed Commerce, Requirements Engineering, Operations Analysis
-
-**Secondary:** Microservices Architecture, Enterprise Systems, Full-Stack Development, Node.js, PostgreSQL, TypeScript, Cross-functional Leadership, Process Optimization, Operational Analytics
-
-**Tertiary:** EIT Digital Scholar, Erasmus Scholar, BPMN Modeling, API Design, Kubernetes, Real-time Systems, Data-Driven Decisions, System Reliability
+Core Areas
+Distributed Systems
+Logistics & Supply Chain Systems
+Backend & Infrastructure Engineering
+Operational Analytics
+Systems Architecture
+Enterprise Workflow Optimization
+Real-Time Systems
+API & Event-Driven Architectures
