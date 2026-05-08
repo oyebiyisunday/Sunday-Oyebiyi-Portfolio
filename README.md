@@ -103,34 +103,6 @@ Full-stack, multi-channel order management and commerce orchestration platform e
 
 ---
 
-## Work Experience
-
-### CoreStack Technologies | Founder & Chief Product Officer
-**2021 – Present | Lagos, Nigeria & Remote**
-
-- **Established company strategy** focused on intelligent logistics solutions for African distributed commerce market
-- **Built and led product team** from concept through scaling to enterprise clients
-- **Architected system portfolio** supporting multi-client operations with 99.8% reliability
-- **Defined product roadmap** resulting in 4 major releases and adoption across 15+ client organizations
-- **Managed client relationships** through implementation, training, and ongoing optimization engagements
-
-**Key Metrics:**
-- Scaled from 2 to 15+ active clients in 18 months
-- Generated consistent revenue through subscription and consulting services
-- Maintained 92% client retention rate through continuous product improvement
-
----
-
-### Senior Business Systems Analyst
-**2019 – 2021**
-
-- **Analyzed and optimized** manufacturing operations, reducing production cycle time by 28%
-- **Designed enterprise workflows** for order-to-cash processes affecting 200+ daily transactions
-- **Built reporting infrastructure** enabling real-time production and inventory visibility to management
-- **Led cross-functional implementations** coordinating IT, operations, and finance teams
-
----
-
 ## Professional Background
 
 **Focus Areas:**
