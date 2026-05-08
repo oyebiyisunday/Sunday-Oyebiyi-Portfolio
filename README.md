@@ -140,8 +140,7 @@ Full-stack, multi-channel order management and commerce orchestration platform e
 
 ### Data & Databases
 **Proficiency Level:** Advanced
-- **PostgreSQL** – Data modeling, query optimization, replication, and scaling
-- **Redis** – Caching, session management, real-time data structures
+- **PostgreSQL and MySQL** – Data modeling, query optimization, replication, and scaling
 - **SQL Query Optimization** – Performance tuning and indexing strategies
 - **Data Modeling** – Relational and NoSQL schema design
 
