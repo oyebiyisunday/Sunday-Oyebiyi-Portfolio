@@ -1,114 +1,69 @@
-# Sunday Oyebiyi
+Hi, I’m Sunday 👋
 
-**Business Analyst | Systems Architect | Operations & Infrastructure Systems Builder**
+Business Analyst | Logistics & Supply Chain Systems Analyst | Enterprise Systems & Operational Intelligence
 
-I design and build distributed systems for logistics and supply chain platforms, focused on scalable backend architecture, real-time operational coordination, and reliable infrastructure.
+I analyze and design enterprise systems that improve operational coordination, logistics execution, process visibility, and data-driven decision-making across supply chain and commerce environments.
 
-Currently building **CoreStack Technologies** — a logistics technology initiative focused on distributed commerce, operational systems, and enterprise workflow coordination.
+I founded CoreStack Technologies, where I lead the development of operational and logistics platforms supporting distributed commerce operations, real-time coordination, and enterprise workflows. My work focuses on translating business and operational challenges into scalable system solutions that improve efficiency, reliability, and operational visibility.
 
-My work bridges business operations and technology — translating operational challenges into scalable software systems and data-driven solutions that improve execution efficiency, operational visibility, and strategic decision-making.
+Areas of Focus
 
----
+* Business Analysis
+* Logistics & Supply Chain Systems
+* Enterprise Systems Design
+* Operational Intelligence
+* Process Optimization
+* Operational Analytics
+* Data-Driven Decision Support
+* Distributed Commerce Systems
+* Workflow Coordination Systems
+* Systems Integration & Operational Support
 
-## 🎯 Core Expertise
+Experience
 
-- **Distributed Systems & Backend Engineering** — Microservices, event-driven architectures, scalable platform design
-- **Logistics & Supply Chain Systems** — Order management, fulfillment optimization, real-time tracking
-- **Real-Time Data Systems** — Event streams, APIs, WebSockets, operational dashboards
-- **Operational Analytics** — Workflow optimization, performance monitoring, data-driven insights
-- **Infrastructure & Reliability** — Containerization, deployment pipelines, system resilience
-- **Cross-Functional Coordination** — Technical operations, stakeholder alignment, systems integration
+My experience spans business analysis, logistics systems coordination, operational analytics, enterprise workflow optimization, and systems support across logistics, financial services, manufacturing, and consumer goods sectors.
 
----
+I have supported operational processes and business systems involving organizations such as:
 
-## 🚀 CoreStack Technologies
+* First Bank of Nigeria
+* Whytecleon Limited
+* Insourcing Limited
+* Richard Bretschneider GmbH
+* TalentPoint
 
-Building operational systems for distributed commerce, logistics coordination, and enterprise workflow environments.
+CoreBox
 
-### Focus Areas
-- Distributed commerce workflows
-- Logistics operations systems
-- Real-time operational coordination
-- Enterprise workflow support systems
+I led the design and implementation of CoreBox, a logistics and commerce platform supporting:
 
-### 📦 CoreBox
+* Real-time operational coordination
+* Delivery and logistics monitoring
+* Operational analytics
+* ETA monitoring
+* Intelligent decision-support capabilities
+* Distributed commerce workflows
 
-A distributed commerce system spanning web, mobile, and backend services.
+Education
 
-**Tech Stack:**
-- **Backend:** TypeScript, Node.js, Express, PostgreSQL, Docker
-- **Web:** Next.js
-- **Mobile:** React Native
-- **Communication:** REST APIs + WebSockets
+* Master’s Degree in Logistics Management
+* Master’s Degree in Applied Information Technology
 
-**System Characteristics:**
-- Multi-client distributed architecture
-- Real-time synchronization workflows
-- Containerized deployment environments
-- Operational support and coordination systems
+Academic and research experience across Europe through EIT Digital and Erasmus+ programs focused on:
 
----
+* Enterprise Systems
+* Information Systems Design
+* Software Innovation
+* Operational Technology
 
-## 💼 Professional Experience
+Interests
 
-Experience across financial services, logistics, manufacturing, and enterprise operational environments through full-time and contract engagements:
+I am interested in building intelligent operational systems that improve scalability, coordination, reliability, and execution across logistics, supply chain, and enterprise environments.
 
-- **First Bank of Nigeria** — Financial systems
-- **Whytecleon Limited** — Logistics operations
-- **Insourcing Limited** — Enterprise solutions
-- **Richard Bretschneider GmbH** — International operations
+Tech & Tools
 
-**Key Focus Areas:**
-- Business systems analysis & optimization
-- Operational support & workflow coordination
-- Distributed systems engineering
-- Enterprise process improvement
-- Logistics operations support
+Business Analysis Enterprise Systems Logistics Technology Operational Analytics TypeScript Node.js React React Native PostgreSQL Docker REST APIs WebSockets
 
----
+Connect With Me
 
-## 🎓 Education & Research
-
-- **Master's Degrees:** Logistics Management & Applied Information Technology
-- **EIT Digital Research Scholar** — Enterprise systems, conceptual modeling, and information systems research
-- **Erasmus+ Scholar (2×)** — Exchange programs in Germany & Spain
-
----
-
-## 🔧 Core Technical Areas
-
-| Area | Focus |
-|------|-------|
-| **Distributed Systems** | Microservices, scalability, fault tolerance |
-| **Backend Engineering** | APIs, data pipelines, system design |
-| **Logistics Platforms** | Order management, fulfillment, tracking |
-| **Real-Time Systems** | Event streams, WebSockets, dashboards |
-| **Infrastructure** | Containerization, CI/CD, DevOps |
-| **Data & Analytics** | Operational metrics, workflow optimization |
-
----
-
-## 🌍 Interests & Vision
-
-I'm passionate about building intelligent systems that improve scalability, coordination, reliability, and real-time decision support across logistics, commerce, and enterprise operations.
-
-Particularly interested in:
-- The intersection of operations, systems architecture, and infrastructure engineering
-- Designing technology that supports efficient workflows and distributed coordination
-- Enterprise systems that scale with business complexity
-
----
-
-## 📬 Contact & Connect
-
-- **📧 Email:** [oyebiyisunday@gmail.com](mailto:oyebiyisunday@gmail.com)
-- **🐙 GitHub:** [@oyebiyisunday](https://github.com/oyebiyisunday)
-- **💼 LinkedIn:** [Connect with me](https://linkedin.com/in/oyebiyisunday) 
-
----
-
-## About This Portfolio
-
-This portfolio reflects my work in distributed systems, logistics platforms, and operational infrastructure. It showcases my approach to building scalable systems that improve coordination, operational visibility, and strategic execution.
-
-I'm focused on the practical intersection of business operations and technology — where systems architecture meets real-world operational challenges, and infrastructure engineering enables business outcomes.
+* LinkedIn
+* Email
+* CoreStack
