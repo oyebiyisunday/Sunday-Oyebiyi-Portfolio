@@ -130,34 +130,22 @@ Full-stack, multi-channel order management and commerce orchestration platform e
 - **Led cross-functional implementations** coordinating IT, operations, and finance teams
 
 ---
+Experience
 
-### First Bank of Nigeria | Business Analyst – Systems & Operations
-**2018 – 2019 | Lagos, Nigeria**
+Experience across financial services, logistics, manufacturing, and enterprise operational environments through full-time and contract engagements involving organizations such as:
 
-- **Documented system requirements** for digital payment processing systems handling 2M+ daily transactions
-- **Optimized transaction settlement workflows**, reducing settlement time by 35%
-- **Collaborated with product and technology** teams to align system enhancements with business objectives
-- **Created training documentation** for 500+ operations staff on new payment systems
+First Bank of Nigeria
+Whytecleon Limited
+Insourcing Limited
+Richard Bretschneider GmbH
 
----
+Focus areas include:
 
-### Insourcing Limited | Business Operations Analyst
-**2017 – 2018 | Lagos, Nigeria**
-
-- **Mapped and analyzed** supply chain operations across warehouse, logistics, and distribution functions
-- **Identified process bottlenecks** resulting in 22% improvement in order fulfillment turnaround
-- **Implemented KPI tracking system** enabling monthly performance reviews and continuous optimization
-- **Designed operational dashboards** providing real-time visibility into key business metrics
-
----
-
-### Richard Bretschneider GmbH | International Logistics Consultant
-**2016 – 2017 | Munich, Germany** *(Erasmus+ Traineeship)*
-
-- **Analyzed German logistics practices** and European supply chain standards
-- **Documented best practices** in warehouse management and inventory optimization
-- **Supported process improvements** in order picking and fulfillment operations
-- **Gained European perspective** on enterprise system design and operational excellence
+Business systems analysis
+Operational support & workflow coordination
+Distributed systems engineering
+Enterprise process optimization
+Logistics operations support
 
 ---
 
