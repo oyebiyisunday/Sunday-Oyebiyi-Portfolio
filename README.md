@@ -81,9 +81,9 @@ I am passionate about building intelligent operational systems that improve scal
 
 ## 🔗 Connect With Me
 
-- [LinkedIn](#)
-- [Email](#)
-- [CoreStack](#)
+- [LinkedIn](https://www.linkedin.com/in/sunday-oyebiyi/)
+- [Email](oyebiyisunday@gmail.com)
+
 
 ---
 
