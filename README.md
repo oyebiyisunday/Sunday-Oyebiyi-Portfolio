@@ -187,7 +187,6 @@ Full-stack, multi-channel order management and commerce orchestration platform e
 
 🐙 **GitHub:** [@oyebiyisunday](https://github.com/oyebiyisunday)
 
-💼 **Availability:** Open to consulting projects (1-2 engagements quarterly) and full-time strategic roles
 
 ---
 
