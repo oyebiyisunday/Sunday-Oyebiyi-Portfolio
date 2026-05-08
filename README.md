@@ -103,7 +103,7 @@ Particularly interested in:
 
 - **📧 Email:** [oyebiyisunday@gmail.com](mailto:oyebiyisunday@gmail.com)
 - **🐙 GitHub:** [@oyebiyisunday](https://github.com/oyebiyisunday)
-- **💼 LinkedIn:** [Connect with me](https://linkedin.com/in/oyebiyisunday)
+- **💼 LinkedIn:** [Connect with me](https://linkedin.com/in/oyebiyisunday) 
 
 ---
 
