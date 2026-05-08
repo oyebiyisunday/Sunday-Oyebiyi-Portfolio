@@ -2,7 +2,7 @@
 
 > **Logistics Systems | Supply Chain Optimization | Enterprise Product Architecture**
 
-Systems-focused Business Analyst and Product Architect specializing in designing and scaling logistics platforms that process mission-critical operations. Founder of **CoreStack Technologies**, driving product strategy and architectural decisions for distributed commerce infrastructure. Track record of translating complex operational requirements into measurable business outcomes through disciplined systems thinking and cross-functional leadership.
+Systems-focused Business Analyst and Product Architect specializing in designing and scaling logistics platforms that process mission-critical operations. Founder of **CoreStack Technologies**, driven by systematic thinking and operational excellence across financial services, logistics, manufacturing, and enterprise environments.
 
 ---
 
@@ -19,7 +19,7 @@ Systems-focused Business Analyst and Product Architect specializing in designing
 
 ## Executive Summary
 
-**Business Impact Focus:** Specialized in bridging operations and technology to deliver measurable outcomes—reduced fulfillment cycles, optimized workflows, and scalable architectures supporting enterprise-scale operations.
+**Business Impact Focus:** Specialized in bridging operations and technology to deliver measurable outcomes—reduced fulfillment cycles, optimized workflows, and scalable architectures supporting mission-critical commerce operations.
 
 **Key Capabilities:**
 - **Requirements & Systems Analysis** – Translating stakeholder needs into comprehensive technical specifications and system designs
@@ -90,7 +90,7 @@ Full-stack, multi-channel order management and commerce orchestration platform e
 
 | **Component** | **Implementation** | **Business Impact** |
 |---|---|---|
-| **Multi-Channel Orchestration** | Unified API layer managing web, mobile, and backend services with synchronized state | Single source of truth for all order operations; eliminates channel-specific data silos |
+| **Multi-Channel Orchestration** | Unified API layer managing web, mobile, and backend services with synchronized state | Single source of truth for all order operations; eliminates channel-specific silos |
 | **Real-Time Data Streaming** | WebSocket-enabled event architecture with message broker for operational data propagation | Instant visibility into fulfillment status; enables proactive exception handling |
 | **Distributed Processing** | Microservices architecture with containerized deployments across multiple availability zones | Horizontal scaling to meet demand spikes; zero-downtime deployments |
 | **Environment Management** | CI/CD pipelines with automated testing across dev, staging, and production | Reduced deployment cycle from 2 hours to 15 minutes; improved code quality |
@@ -121,8 +121,8 @@ Full-stack, multi-channel order management and commerce orchestration platform e
 
 ---
 
-### Whytecleon Limited | Senior Business Systems Analyst
-**2019 – 2021 | Lagos, Nigeria**
+### Senior Business Systems Analyst
+**2019 – 2021**
 
 - **Analyzed and optimized** manufacturing operations, reducing production cycle time by 28%
 - **Designed enterprise workflows** for order-to-cash processes affecting 200+ daily transactions
@@ -130,22 +130,17 @@ Full-stack, multi-channel order management and commerce orchestration platform e
 - **Led cross-functional implementations** coordinating IT, operations, and finance teams
 
 ---
-Experience
 
-Experience across financial services, logistics, manufacturing, and enterprise operational environments through full-time and contract engagements involving organizations such as:
+## Professional Background
 
-First Bank of Nigeria
-Whytecleon Limited
-Insourcing Limited
-Richard Bretschneider GmbH
+**Focus Areas:**
+- Business systems analysis
+- Operational support & workflow coordination
+- Distributed systems engineering
+- Enterprise process optimization
+- Logistics operations support
 
-Focus areas include:
-
-Business systems analysis
-Operational support & workflow coordination
-Distributed systems engineering
-Enterprise process optimization
-Logistics operations support
+**Experience across** financial services, logistics, manufacturing, and enterprise operational environments through full-time and contract engagements.
 
 ---
 
@@ -156,7 +151,7 @@ Logistics operations support
 - **Master's Degree in Applied Information Technology** – Focus on enterprise systems architecture, business systems integration, and IT service management
 
 ### Professional Recognition
-- **EIT Digital Research Scholar** (2016-2017) – Selected for prestigious Europe-wide innovation program focused on Information Systems and Enterprise Modeling. Conducted research on distributed systems architecture and logistics platform design across partner institutions
+- **EIT Digital Research Scholar** (2016-2017) – Selected for prestigious Europe-wide innovation program focused on Information Systems and Enterprise Modeling. Conducted research on distributed systems and operational resilience
 - **Erasmus+ Mobility Scholar** – Systems and Software Traineeship across Germany and Spain, developing international perspective on enterprise system design and operational best practices
 - **Advanced Certifications:** Business Process Modeling (BPMN), Agile Product Management, Requirements Engineering
 
@@ -227,7 +222,7 @@ Logistics operations support
 
 ## About This Portfolio
 
-This portfolio reflects my commitment to building intelligent systems that solve real business problems at scale. I believe exceptional products emerge at the intersection of deep operational understanding, disciplined systems architecture, and cross-functional excellence.
+This portfolio reflects my commitment to building intelligent systems that solve real business problems at scale. I believe exceptional products emerge at the intersection of deep operational understanding, systematic design thinking, and quality engineering.
 
 **Philosophy:** Great logistics systems aren't just technically sound—they're designed to reduce friction, enable visibility, and empower teams to make better decisions faster.
 
