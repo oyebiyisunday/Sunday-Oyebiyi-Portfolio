@@ -1,69 +1,90 @@
-Hi, I’m Sunday 👋
+# Hi, I'm Sunday 👋
 
-Business Analyst | Logistics & Supply Chain Systems Analyst | Enterprise Systems & Operational Intelligence
+**Business Analyst | Logistics & Supply Chain Systems Analyst | Enterprise Systems & Operational Intelligence**
 
 I analyze and design enterprise systems that improve operational coordination, logistics execution, process visibility, and data-driven decision-making across supply chain and commerce environments.
 
-I founded CoreStack Technologies, where I lead the development of operational and logistics platforms supporting distributed commerce operations, real-time coordination, and enterprise workflows. My work focuses on translating business and operational challenges into scalable system solutions that improve efficiency, reliability, and operational visibility.
+I founded **CoreStack Technologies**, where I lead the development of operational and logistics platforms supporting distributed commerce operations, real-time coordination, and enterprise workflows.
 
-Areas of Focus
+---
 
-* Business Analysis
-* Logistics & Supply Chain Systems
-* Enterprise Systems Design
-* Operational Intelligence
-* Process Optimization
-* Operational Analytics
-* Data-Driven Decision Support
-* Distributed Commerce Systems
-* Workflow Coordination Systems
-* Systems Integration & Operational Support
+## 📍 Areas of Focus
 
-Experience
+- Business Analysis
+- Logistics & Supply Chain Systems
+- Enterprise Systems Design
+- Operational Intelligence
+- Process Optimization
+- Operational Analytics
+- Data-Driven Decision Support
+- Distributed Commerce Systems
+- Workflow Coordination Systems
+- Systems Integration & Operational Support
 
-My experience spans business analysis, logistics systems coordination, operational analytics, enterprise workflow optimization, and systems support across logistics, financial services, manufacturing, and consumer goods sectors.
+---
 
-I have supported operational processes and business systems involving organizations such as:
+## 💼 Experience
 
-* First Bank of Nigeria
-* Whytecleon Limited
-* Insourcing Limited
-* Richard Bretschneider GmbH
-* TalentPoint
+My experience spans business analysis, logistics systems coordination, operational analytics, enterprise workflow optimization, and systems support across logistics, financial services, and manufacturing sectors.
 
-CoreBox
+### Organizations & Partners
 
-I led the design and implementation of CoreBox, a logistics and commerce platform supporting:
+- First Bank of Nigeria
+- Whytecleon Limited
+- Insourcing Limited
+- Richard Bretschneider GmbH
+- TalentPoint
 
-* Real-time operational coordination
-* Delivery and logistics monitoring
-* Operational analytics
-* ETA monitoring
-* Intelligent decision-support capabilities
-* Distributed commerce workflows
+### Featured Project: CoreBox
 
-Education
+I led the design and implementation of **CoreBox**, a comprehensive logistics and commerce platform enabling:
 
-* Master’s Degree in Logistics Management
-* Master’s Degree in Applied Information Technology
+- Real-time operational coordination
+- Delivery and logistics monitoring
+- Operational analytics
+- ETA monitoring
+- Intelligent decision-support capabilities
+- Distributed commerce workflows
 
-Academic and research experience across Europe through EIT Digital and Erasmus+ programs focused on:
+---
 
-* Enterprise Systems
-* Information Systems Design
-* Software Innovation
-* Operational Technology
+## 🎓 Education
 
-Interests
+**Master's Degrees:**
+- Logistics Management
+- Applied Information Technology
 
-I am interested in building intelligent operational systems that improve scalability, coordination, reliability, and execution across logistics, supply chain, and enterprise environments.
+**Academic & Research Experience**
+Across Europe through EIT Digital and Erasmus+ programs with focus on:
+- Enterprise Systems
+- Information Systems Design
+- Software Innovation
+- Operational Technology
 
-Tech & Tools
+---
 
-Business Analysis Enterprise Systems Logistics Technology Operational Analytics TypeScript Node.js React React Native PostgreSQL Docker REST APIs WebSockets
+## 🛠️ Tech & Tools
 
-Connect With Me
+**Business & Analysis:** Business Analysis | Enterprise Systems | Logistics Technology | Operational Analytics
 
-* LinkedIn
-* Email
-* CoreStack
+**Development:** TypeScript | Node.js | React | React Native
+
+**Backend & Infrastructure:** PostgreSQL | Docker | REST APIs | WebSockets
+
+---
+
+## 🎯 Interests
+
+I am passionate about building intelligent operational systems that improve scalability, coordination, reliability, and execution across logistics, supply chain, and enterprise environments.
+
+---
+
+## 🔗 Connect With Me
+
+- [LinkedIn](#)
+- [Email](#)
+- [CoreStack](#)
+
+---
+
+*Last updated: May 2026*
