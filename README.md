@@ -1,4 +1,4 @@
-# Sunday Oyebiyi – Business Analyst & Systems Architect
+**# Sunday Oyebiyi – Business Analyst & Systems Architect
 
 > **Logistics Systems | Supply Chain Optimization | Product & Systems Analysis**
 
@@ -71,7 +71,7 @@ A full-stack, multi-channel distributed commerce platform spanning web, mobile, 
 **Technical Architecture:**
 - **Frontend:** Next.js, React Native
 - **Backend:** Express.js, Node.js
-- **Database:** PostgreSQL
+- **Database:** PostgreSQL, MySQL
 - **Infrastructure:** Docker, Kubernetes-ready
 - **Communication:** REST APIs, WebSockets
 - **Language:** TypeScript
@@ -165,3 +165,4 @@ This portfolio showcases my work in building intelligent systems that bridge bus
 **Secondary:** Business Process Optimization, Enterprise Systems, Full-Stack Development, Node.js, PostgreSQL, TypeScript, Cross-functional Leadership, Operations Analysis
 
 **Tertiary:** EIT Digital Scholar, Erasmus Scholar, BPMN, API Design, Microservices, Real-time Systems, Data-Driven Decisions
+**
