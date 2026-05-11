@@ -24,7 +24,7 @@ I design and implement enterprise-grade systems that streamline operations acros
 
 I founded **CoreStack** to revolutionize how logistics and distributed commerce operations are coordinated. CoreBox, our flagship platform, integrates real-time operational coordination with advanced analytics, enabling businesses to optimize delivery networks, track shipments, and make data-driven operational decisions.
 
-**📌 Repository Status:** The main CoreBox repository is **private** and available upon request. I'm happy to walk through the architecture, codebase, features, and technical implementation during a dedicated session. This allows me to discuss proprietary systems, architectural decisions, and business-specific optimizations in detail.
+**📌 Repository Status:** The main CoreBox repository and other projects are **private** and available upon request. I'm happy to walk through the architecture, codebase, features, and technical implementation during a dedicated session. This allows me to discuss proprietary systems, architectural decisions, and business-specific optimizations in detail.
 
 #### CoreBox Features & Capabilities
 
@@ -50,7 +50,7 @@ I founded **CoreStack** to revolutionize how logistics and distributed commerce 
 | Degree | Institution | Achievement |
 |---|---|---|
 | **Master of Science in Applied Information Technology** | Towson University, Maryland (USA) | GPA: 3.87/4.0 – Graduated with Distinction |
-| **Master's Degree in Logistics Management** | Politechnika Częstochowska, Poland | Erasmus+ Scholar – International Exchange Program |
+| **Master's Degree in Logistics Management** | Politechnika Częstochowska, Poland | Erasmus+ Scholar – International Exchange Program Spain & Germany (2x) |
 
 **Additional Recognitions:**
 - ✓ EIT Digital Research Scholar – Recognition for advanced research contributions
