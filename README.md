@@ -17,19 +17,6 @@ I design and implement enterprise-grade systems that streamline operations acros
 - Operational Intelligence & Analytics
 - Workflow Automation & Integration
 
----
-
-## 💼 Professional Experience
-
-| Organization | Role & Impact |
-|---|---|
-| **CoreStack (Employee)** | Product Operations Lead – Managed end-to-end product operations, spearheaded requirements gathering, executed complex data analysis, and architected Power BI dashboards for executive decision-making |
-| **Richard Bretschneider GmbH (Germany)** | Logistics Operations Analyst – Designed logistics workflows, optimized delivery coordination, implemented inventory control systems, and delivered comprehensive client reporting |
-| **Northern Illinois University (BRFSS Project)** | Data Analyst – Executed SQL-based data extraction and transformation, performed rigorous data cleaning, and generated statistical reports for public health initiatives |
-| **First Bank of Nigeria** | Business Analyst – Streamlined credit workflows, documented business rules, facilitated stakeholder collaboration, and reduced operational errors by 40% |
-| **Insourcing Limited (Nigeria)** | Operations Associate – Ensured transaction processing accuracy, maintained data integrity, and provided operational support to cross-functional teams |
-
----
 
 ## 🚀 Founder & Creator
 
