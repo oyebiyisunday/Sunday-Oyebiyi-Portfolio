@@ -2,13 +2,13 @@
 
 **Transforming Logistics & Supply Chain Operations Through Strategic Systems Architecture**
 
-> Enterprise systems design, business analysis, and operational optimization specialist with proven expertise in logistics, supply chain management, and distributed commerce. Proven track record delivering scalable enterprise solutions across Fortune 500 companies, international enterprises, and venture-stage startups.
+> Enterprise systems design, business analysis, and operational optimization specialist with proven expertise in logistics, supply chain management, and distributed commerce. Proven track record delivering scalable, technology-driven solutions that enhance operational efficiency and drive business growth.
 
 ---
 
 ## 🎯 Professional Overview
 
-I design and implement enterprise-grade systems that streamline operations across logistics, supply chain, and distributed commerce environments. My expertise bridges business strategy with technical architecture, enabling organizations to optimize workflows, enhance data visibility, and accelerate growth.
+I design and implement enterprise-grade systems that streamline operations across logistics, supply chain, and distributed commerce environments. My expertise bridges business strategy with technical excellence, enabling organizations to optimize workflows, reduce costs, and scale operations efficiently.
 
 **Key Focus Areas:**
 - Enterprise Architecture & Systems Design
@@ -22,7 +22,7 @@ I design and implement enterprise-grade systems that streamline operations acros
 
 ### CoreStack Technologies – Distributed Commerce & Logistics Platform
 
-I founded **CoreStack** to revolutionize how logistics and distributed commerce operations are coordinated. CoreBox, our flagship platform, integrates real-time operational coordination with advanced logistics execution capabilities.
+I founded **CoreStack** to revolutionize how logistics and distributed commerce operations are coordinated. CoreBox, our flagship platform, integrates real-time operational coordination with advanced analytics and intelligent automation to empower logistics businesses.
 
 #### CoreBox Features & Capabilities
 
