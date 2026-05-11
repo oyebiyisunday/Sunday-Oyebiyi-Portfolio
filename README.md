@@ -1,89 +1,95 @@
-# Hi, I'm Sunday 👋
+# Sunday Oyebiyi
 
-**Business Analyst | Logistics & Supply Chain Systems Analyst | Enterprise Systems & Operational Intelligence**
+**Business Analyst | Enterprise Systems Architect | Logistics & Supply Chain Specialist**
 
-I analyze and design enterprise systems that improve operational coordination, logistics execution, process visibility, and data-driven decision-making across supply chain and commerce environments.
+I design and implement enterprise systems that drive operational excellence across logistics, supply chain, and distributed commerce environments. With expertise in business analysis, systems architecture, and operational intelligence, I help organizations optimize workflows, enhance coordination, and make data-informed decisions.
 
-I founded **CoreStack Technologies**, where I lead the development of operational and logistics platforms supporting distributed commerce operations, real-time coordination, and enterprise workflows.
+As founder of **CoreStack Technologies**, I lead the development of sophisticated logistics and commerce platforms that power real-time operational coordination, delivery optimization, and enterprise workflow automation.
 
 ---
 
-## 📍 Areas of Focus
+## 🎯 Core Expertise
 
-- Business Analysis
-- Logistics & Supply Chain Systems
-- Enterprise Systems Design
-- Operational Intelligence
-- Process Optimization
-- Operational Analytics
+### Strategic & Analytical
+- Enterprise Systems Architecture & Design
+- Business Process Analysis & Optimization
+- Operational Intelligence & Analytics
+- Supply Chain Systems Coordination
 - Data-Driven Decision Support
+- Systems Integration & Workflow Automation
+
+### Technical Capabilities
 - Distributed Commerce Systems
-- Workflow Coordination Systems
-- Systems Integration & Operational Support
+- Real-Time Operational Monitoring
+- Logistics Execution Platforms
+- Workflow Orchestration
+- Process Automation & Visibility
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-My experience spans business analysis, logistics systems coordination, operational analytics, enterprise workflow optimization, and systems support across logistics, financial services, and manufacturing sectors.
+### CoreStack Technologies | Founder & Systems Architect
+Leading the design and deployment of enterprise logistics and commerce solutions, including:
 
-### Organizations & Partners
+**CoreBox** — Comprehensive Logistics & Commerce Platform
+- Real-time operational coordination and monitoring
+- Delivery logistics execution and ETA optimization
+- Operational analytics and performance dashboards
+- Intelligent decision-support systems
+- Distributed commerce workflow automation
+- Multi-stakeholder coordination capabilities
 
-- First Bank of Nigeria
-- Whytecleon Limited
-- Insourcing Limited
-- Richard Bretschneider GmbH
-- TalentPoint
+### Enterprise Partnerships
+**Organizations:** First Bank of Nigeria | Whytecleon Limited | Insourcing Limited | Richard Bretschneider GmbH | TalentPoint
 
-### Featured Project: CoreBox
-
-I led the design and implementation of **CoreBox**, a comprehensive logistics and commerce platform enabling:
-
-- Real-time operational coordination
-- Delivery and logistics monitoring
-- Operational analytics
-- ETA monitoring
-- Intelligent decision-support capabilities
-- Distributed commerce workflows
+**Focus Areas:** Operational systems optimization, supply chain coordination, enterprise integration, process automation, and analytics infrastructure.
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Professional Development
 
-**Master's Degrees:**
-- Logistics Management
-- Applied Information Technology
+**Advanced Qualifications:**
+- Master's Degree in Logistics Management
+- Master's Degree in Applied Information Technology
 
-**Academic & Research Experience**
-Across Europe through EIT Digital and Erasmus+ programs with focus on:
-- Enterprise Systems
-- Information Systems Design
-- Software Innovation
-- Operational Technology
+**Research & Academic Experience:**
+- European academic collaborations through EIT Digital and Erasmus+ programs
+- Specialized focus on enterprise systems design, information systems architecture, and software innovation
+- Research in operational technology and systems design methodologies
 
 ---
 
-## 🛠️ Tech & Tools
+## 🛠️ Technical Stack
 
-**Business & Analysis:** Business Analysis | Enterprise Systems | Logistics Technology | Operational Analytics
-
-**Development:** TypeScript | Node.js | React | React Native
-
-**Backend & Infrastructure:** PostgreSQL | MySQL  | Docker | REST APIs | WebSockets
-
----
-
-## 🎯 Interests
-
-I am passionate about building intelligent operational systems that improve scalability, coordination, reliability, and execution across logistics, supply chain, and enterprise environments.
+| Category | Skills |
+|----------|--------|
+| **Frontend** | React, React Native, TypeScript |
+| **Backend & APIs** | Node.js, TypeScript, REST APIs, WebSockets |
+| **Data & Infrastructure** | PostgreSQL, MySQL, Docker |
+| **Platforms** | Enterprise systems, Operational analytics, Logistics technology |
 
 ---
 
-## 🔗 Connect With Me
+## 🌟 Key Achievements
 
-- [LinkedIn](https://www.linkedin.com/in/sunday-oyebiyi/)
-- [Email](oyebiyisunday@gmail.com)
+- Founded and architected **CoreStack Technologies**, delivering enterprise-grade logistics platforms
+- Designed end-to-end operational systems supporting real-time coordination across distributed networks
+- Developed analytics frameworks enabling data-driven decision-making in complex supply chain environments
+- Integrated enterprise systems across logistics, financial services, and manufacturing sectors
 
+---
+
+## 🎯 Professional Interests
+
+I am committed to building intelligent operational systems that enhance scalability, improve cross-functional coordination, increase reliability, and optimize execution across logistics, supply chain, and enterprise environments. I'm particularly focused on leveraging technology to solve complex operational challenges in distributed commerce and supply chain management.
+
+---
+
+## 📫 Get In Touch
+
+- **LinkedIn:** [sunday-oyebiyi](https://www.linkedin.com/in/sunday-oyebiyi/)
+- **Email:** [oyebiyisunday@gmail.com](mailto:oyebiyisunday@gmail.com)
 
 ---
 
