@@ -2,94 +2,90 @@
 
 **Business Analyst | Enterprise Systems Architect | Logistics & Supply Chain Specialist**
 
-I design and implement enterprise systems that drive operational excellence across logistics, supply chain, and distributed commerce environments. With expertise in business analysis, systems architecture, and operational optimization, I help organizations coordinate complex workflows and make data-driven decisions at scale.
+Enterprise systems design and implementation for logistics, supply chain, and distributed commerce environments. Business analysis, systems architecture, and operational optimization to coordinate complex workflows and enable data-driven decisions at scale.
 
-As founder of **CoreStack Technologies**, I lead the development of sophisticated logistics and commerce platforms that power real-time operational coordination, delivery optimization, and enterprise integration across multi-stakeholder environments.
+---
+
+## 📂 Professional Experience
+
+| Organization | Focus |
+|--------------|-------|
+| CoreStack (employee) | Product operations, requirements gathering, data analysis, Power BI dashboards |
+| Richard Bretschneider GmbH (Germany) | Logistics workflows, delivery coordination, inventory control, client reporting |
+| Northern Illinois University (BRFSS Project) | SQL, Excel, data cleaning, statistical reporting |
+| First Bank of Nigeria | Credit workflows, business rules, stakeholder collaboration, error reduction |
+| Insourcing Limited (Nigeria) | Transaction processing, data accuracy, operational support |
+
+---
+
+## 🚀 Personal Venture
+
+### CoreStack Technologies (founder)
+
+Independent logistics and distributed commerce platform development.
+
+**CoreBox – Distributed Commerce & Logistics Platform**
+
+| Capability | Description |
+|------------|-------------|
+| Real-time operational coordination | Synchronized web, mobile, and backend services |
+| Logistics execution & delivery coordination | ETA optimization and shipment tracking |
+| Operational analytics | Performance dashboards and KPIs |
+| Workflow automation | Process orchestration across stakeholders |
+| Multi-surface system | Web console, customer app, driver app |
+
+**Tech Stack:** SQL, Power BI, TypeScript, Node.js, Express.js, Next.js, React Native, PostgreSQL, REST APIs, Docker
 
 ---
 
 ## 🎯 Core Expertise
 
-### Strategic & Analytical
-- Enterprise Systems Architecture & Design
+**Business & Systems Analysis**
+- Enterprise Systems Architecture & Operational Design
 - Business Process Analysis & Optimization
-- Operational Intelligence & Analytics
-- Supply Chain Systems Coordination
-- Data-Driven Decision Support
+- Requirements Gathering & Documentation
 - Systems Integration & Workflow Automation
+- Data-Driven Decision Support
 
-### Technical Capabilities
-- Distributed Commerce Systems
-- Real-Time Operational Monitoring
+**Logistics & Supply Chain**
+- Supply Chain Systems Coordination
+- Operational Intelligence & Analytics
 - Logistics Execution Platforms
-- Workflow Orchestration
-- Process Automation & Visibility
+- Real-Time Operational Monitoring
+- Delivery Optimization & ETA Systems
 
 ---
 
-## 💼 Professional Experience
+## 🎓 Education
 
-### CoreStack Technologies | Founder & Systems Architect
-**Personal Venture** — Leading the design and deployment of enterprise logistics and commerce solutions.
+| Degree | Institution |
+|--------|-------------|
+| Master of Science in Applied Information Technology | Towson University, MD (GPA 3.87) |
+| Master's Degree in Logistics Management | Politechnika Częstochowska, Poland (Erasmus Scholar) |
 
-**CoreBox** — Comprehensive Logistics & Commerce Platform
-- Real-time operational coordination and monitoring
-- Delivery logistics execution and ETA optimization
-- Operational analytics and performance dashboards
-- Intelligent decision-support systems
-- Distributed commerce workflow automation
-- Multi-stakeholder coordination capabilities
-
-### Enterprise Clients & Partnerships
-**Organizations:** First Bank of Nigeria | Whytecleon Limited | Insourcing Limited | Richard Bretschneider GmbH | TalentPoint
-
-**Engagement Focus:** Operational systems optimization, supply chain coordination, enterprise integration, process automation, and analytics infrastructure.
+**Additional:** EIT Digital Research Scholar | Erasmus+ Scholar (Germany & Spain)
 
 ---
 
-## 🎓 Education & Professional Development
+## 🛠️ Technical Skills
 
-**Advanced Qualifications:**
-- Master's Degree in Logistics Management
-- Master's Degree in Applied Information Technology
-
-**Research & Academic Experience:**
-- European academic collaborations through EIT Digital and Erasmus+ programs
-- Specialized focus on enterprise systems design, information systems architecture, and software innovation
-- Research in operational technology and systems design methodologies
-
----
-
-## 🛠️ Technical Stack
-
-| Category | Skills |
-|----------|--------|
-| **Frontend** | React, React Native, TypeScript |
-| **Backend & APIs** | Node.js, TypeScript, REST APIs, WebSockets |
-| **Data & Infrastructure** | PostgreSQL, MySQL, Docker |
-| **Platforms** | Enterprise systems, Operational analytics, Logistics technology |
-
----
-
-## 🌟 Key Achievements
-
-- Founded and architected **CoreStack Technologies**, delivering enterprise-grade logistics platforms
-- Designed end-to-end operational systems supporting real-time coordination across distributed networks
-- Developed analytics frameworks enabling data-driven decision-making in complex supply chain environments
-- Integrated enterprise systems across logistics, financial services, and manufacturing sectors
-
----
-
-## 🎯 Professional Interests
-
-I am committed to building intelligent operational systems that enhance scalability, improve cross-functional coordination, increase reliability, and optimize execution across logistics, supply chain, and commerce environments. I'm particularly focused on leveraging real-time data and advanced analytics to support strategic decision-making in complex, distributed systems.
+| Category | Technologies |
+|----------|--------------|
+| **Frontend** | React, React Native, Next.js, TypeScript |
+| **Backend** | Node.js, Express, REST APIs, WebSockets |
+| **Database** | PostgreSQL, MySQL, SQL Server, Data Modeling, ERD |
+| **Data & Analytics** | Power BI, Excel, SQL, ETL Pipelines |
+| **Infrastructure** | Docker, Git, Linux CLI |
 
 ---
 
 ## 📫 Get In Touch
 
-- **LinkedIn:** [sunday-oyebiyi](https://www.linkedin.com/in/sunday-oyebiyi/)
 - **Email:** [oyebiyisunday@gmail.com](mailto:oyebiyisunday@gmail.com)
+- **LinkedIn:** [sunday-oyebiyi](https://www.linkedin.com/in/sunday-oyebiyi/)
+- **GitHub:** [github.com/oyebiyisunday](https://github.com/oyebiyisunday)
+
+#OpenToWork
 
 ---
 
