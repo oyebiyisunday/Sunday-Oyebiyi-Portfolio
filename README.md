@@ -2,9 +2,9 @@
 
 **Business Analyst | Enterprise Systems Architect | Logistics & Supply Chain Specialist**
 
-I design and implement enterprise systems that drive operational excellence across logistics, supply chain, and distributed commerce environments. With expertise in business analysis, systems architecture, and operational intelligence, I help organizations optimize workflows, enhance coordination, and make data-informed decisions.
+I design and implement enterprise systems that drive operational excellence across logistics, supply chain, and distributed commerce environments. With expertise in business analysis, systems architecture, and operational optimization, I help organizations coordinate complex workflows and make data-driven decisions at scale.
 
-As founder of **CoreStack Technologies**, I lead the development of sophisticated logistics and commerce platforms that power real-time operational coordination, delivery optimization, and enterprise workflow automation.
+As founder of **CoreStack Technologies**, I lead the development of sophisticated logistics and commerce platforms that power real-time operational coordination, delivery optimization, and enterprise integration across multi-stakeholder environments.
 
 ---
 
@@ -30,7 +30,7 @@ As founder of **CoreStack Technologies**, I lead the development of sophisticate
 ## 💼 Professional Experience
 
 ### CoreStack Technologies | Founder & Systems Architect
-Leading the design and deployment of enterprise logistics and commerce solutions, including:
+**Personal Venture** — Leading the design and deployment of enterprise logistics and commerce solutions.
 
 **CoreBox** — Comprehensive Logistics & Commerce Platform
 - Real-time operational coordination and monitoring
@@ -40,10 +40,10 @@ Leading the design and deployment of enterprise logistics and commerce solutions
 - Distributed commerce workflow automation
 - Multi-stakeholder coordination capabilities
 
-### Enterprise Partnerships
+### Enterprise Clients & Partnerships
 **Organizations:** First Bank of Nigeria | Whytecleon Limited | Insourcing Limited | Richard Bretschneider GmbH | TalentPoint
 
-**Focus Areas:** Operational systems optimization, supply chain coordination, enterprise integration, process automation, and analytics infrastructure.
+**Engagement Focus:** Operational systems optimization, supply chain coordination, enterprise integration, process automation, and analytics infrastructure.
 
 ---
 
@@ -82,7 +82,7 @@ Leading the design and deployment of enterprise logistics and commerce solutions
 
 ## 🎯 Professional Interests
 
-I am committed to building intelligent operational systems that enhance scalability, improve cross-functional coordination, increase reliability, and optimize execution across logistics, supply chain, and enterprise environments. I'm particularly focused on leveraging technology to solve complex operational challenges in distributed commerce and supply chain management.
+I am committed to building intelligent operational systems that enhance scalability, improve cross-functional coordination, increase reliability, and optimize execution across logistics, supply chain, and commerce environments. I'm particularly focused on leveraging real-time data and advanced analytics to support strategic decision-making in complex, distributed systems.
 
 ---
 
