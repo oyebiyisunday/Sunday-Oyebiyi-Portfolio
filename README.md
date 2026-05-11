@@ -18,7 +18,7 @@ I design and implement enterprise-grade systems that streamline operations acros
 - Workflow Automation & Integration
 
 
-## 🚀 Founder & Creator
+## 🚀 Ongoing Project
 
 ### CoreStack Technologies – Distributed Commerce & Logistics Platform
 
