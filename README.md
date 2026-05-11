@@ -69,7 +69,7 @@ Across Europe through EIT Digital and Erasmus+ programs with focus on:
 
 **Development:** TypeScript | Node.js | React | React Native
 
-**Backend & Infrastructure:** PostgreSQL | Docker | REST APIs | WebSockets
+**Backend & Infrastructure:** PostgreSQL | MySQL  | Docker | REST APIs | WebSockets
 
 ---
 
